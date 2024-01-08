@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **antonioruizbrocal@gmail.com**
 
-- ⚡In my free time **i design 3D Animation, read books and go for long walks**
+- ⚡In my free time **i enjoy 3D Animation designing, read books and long walks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/antonio ruiz brocal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio ruiz brocal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonio-ruiz-brocal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-ruiz-brocal/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brocal82&show_icons=true&locale=en&layout=compact" alt="brocal82" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brocal82&show_icons=true&locale=en" alt="brocal82" /></p>
-
-
