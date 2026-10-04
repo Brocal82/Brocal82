@@ -4,7 +4,7 @@
 
 I build web apps, APIs and mobile apps with **TypeScript, React, Node.js and React Native**. I've been building software since 2023 (CareerFoundry) and work in **Emergency Medical Services (EMS)** while moving into a full-time software role.
 
-My main project is **Ambulancias GoRuiz** (private repository): a multi-tenant platform for ambulance operations that I designed and built on my own — React web panel, Expo mobile app and a Node.js / Express / MongoDB API with JWT, TOTP MFA, WebSockets and an OpenAPI spec, backed by 893 backend and 432 frontend tests. It reached an advanced functional stage and was archived before production deployment.
+My main project is **Ambulancias GoRuiz** (personal project, 2025–2026, private repository): a multi-tenant platform for ambulance operations that I designed and built on my own — React web panel, Expo mobile app and a Node.js / Express / MongoDB API with JWT, TOTP MFA, WebSockets and an OpenAPI spec, backed by 893 backend and 432 frontend tests. It reached an advanced functional stage and was archived before production deployment.
 
 ### Links
 
