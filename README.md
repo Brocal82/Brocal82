@@ -9,7 +9,7 @@ My main project is **Ambulancias GoRuiz** (personal project, 2025–2026): a mul
 ### Links
 
 - **Portfolio** → [antonioruizdeveloper.com](https://antonioruizdeveloper.com)
-- **GoRuiz source code** → [Brocal82/Ambulancias-GoRuiz-Public](https://github.com/Brocal82/Ambulancias-GoRuiz-Public)
+- **GoRuiz source code** → [Brocal82/Ambulancias-GoRuiz-Portfolio](https://github.com/Brocal82/Ambulancias-GoRuiz-Portfolio)
 - **GoRuiz case study** → [Architecture, security, testing and trade-offs](https://antonioruizdeveloper.com/goruiz-case-study.html)
 - **LinkedIn** → [antonio-ruiz-brocal](https://www.linkedin.com/in/antonio-ruiz-brocal-59b656294)
 - **Email** → antonioruizbrocal@gmail.com
@@ -22,7 +22,7 @@ My main project is **Ambulancias GoRuiz** (personal project, 2025–2026): a mul
 
 | Project | Description |
 |---------|-------------|
-| [**Ambulancias-GoRuiz-Public**](https://github.com/Brocal82/Ambulancias-GoRuiz-Public) | GoRuiz source: React web panel, Expo mobile app, Node.js / Express / MongoDB API (archived personal project) |
+| [**Ambulancias-GoRuiz-Portfolio**](https://github.com/Brocal82/Ambulancias-GoRuiz-Portfolio) | GoRuiz source: React web panel, Expo mobile app, Node.js / Express / MongoDB API (archived personal project) |
 | [**Portafolio**](https://github.com/Brocal82/Portafolio) | Personal portfolio, CV and GoRuiz case study |
 | [**rest_apis_typescript_frontend**](https://github.com/Brocal82/rest_apis_typescript_frontend) | React + TypeScript SPA with React Router and Tailwind CSS (learning project, 2024) |
 | [**rest_apis_typescript_backend**](https://github.com/Brocal82/rest_apis_typescript_backend) | Node.js / Express / Sequelize REST API (learning project, 2024) |
